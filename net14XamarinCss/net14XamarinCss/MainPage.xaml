@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:net14XamarinCss"
+             x:Class="net14XamarinCss.MainPage">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="/css/style.css"></StyleSheet>
+    </ContentPage.Resources>
+    
+    <StackLayout StyleId="LoginForm">
+        <Entry Placeholder="Username"></Entry>
+        <Entry Placeholder="Password" IsPassword="True"></Entry>
+        <Button Text="Login" StyleClass="primary"></Button>
+        <Button Text="Forgot Password"></Button>
+    </StackLayout>
+
+</ContentPage>
