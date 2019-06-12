@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net14XamarinCss.Android", "net14XamarinCss\net14XamarinCss.Android\net14XamarinCss.Android.csproj", "{7DC9C479-E15D-4DF2-A035-94DBB596D7E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gu.Android", "net14XamarinCss\net14XamarinCss.Android\Gu.Android.csproj", "{7DC9C479-E15D-4DF2-A035-94DBB596D7E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net14XamarinCss.iOS", "net14XamarinCss\net14XamarinCss.iOS\net14XamarinCss.iOS.csproj", "{C6969898-2256-493B-9F4B-4A64F94ADEFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gu.iOS", "net14XamarinCss\net14XamarinCss.iOS\Gu.iOS.csproj", "{C6969898-2256-493B-9F4B-4A64F94ADEFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net14XamarinCss", "net14XamarinCss\net14XamarinCss\net14XamarinCss.csproj", "{ECE078E1-7C22-4B15-A665-B1F7AB7B42EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gu", "net14XamarinCss\net14XamarinCss\Gu.csproj", "{ECE078E1-7C22-4B15-A665-B1F7AB7B42EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

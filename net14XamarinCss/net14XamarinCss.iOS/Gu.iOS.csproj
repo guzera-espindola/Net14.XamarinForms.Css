@@ -151,9 +151,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\net14XamarinCss\net14XamarinCss.csproj">
-      <Project>{0B79D9BD-1A68-492F-BA35-C8E97B530792}</Project>
-      <Name>net14XamarinCss</Name>
+    <ProjectReference Include="..\net14XamarinCss\Gu.csproj">
+      <Project>{ECE078E1-7C22-4B15-A665-B1F7AB7B42EE}</Project>
+      <Name>Gu</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
